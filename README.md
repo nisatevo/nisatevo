@@ -1,11 +1,9 @@
 ### Yo! I'm [`Nisat`](https://x.com/nisatevo) 🐦‍🔥
----
-<div align=center> 
-  <pre>█▀█ █░░ █▀█ █▄█   █▀█ █▀   █▄█ █▀█ █░█   █▀▀ █▀█ █▀█ █░█░█
-█▀▀ █░░ █▀█ ░█░   █▀█ ▄█   ░█░ █▄█ █▄█   █▄█ █▀▄ █▄█ ▀▄▀▄▀
-Security Researcher / DevOps Practitioner</pre>
-</div>
+## Gotta catch 'em all—bugs!
 
+A Security Researcher and passionate DevOps practitioner
+
+Seeking knowledge and striving to make things work.
 
 ## Chilling 🌸
 
