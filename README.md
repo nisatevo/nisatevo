@@ -1,7 +1,6 @@
 ### Yo! I'm [`Nisat`](https://x.com/nisatevo) 🐦‍🔥
 
-
-💻A Security Researcher and passionate DevOps practitioner
+💻A Security Researcher and passionate DevOps practitioner.
 
 😼Seeking knowledge and striving to make things work.
 #### Gotta catch 'em all—bugs!
