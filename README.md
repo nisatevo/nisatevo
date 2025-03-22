@@ -1,9 +1,10 @@
 ### Yo! I'm [`Nisat`](https://x.com/nisatevo) 🐦‍🔥
-## Gotta catch 'em all—bugs!
 
-A Security Researcher and passionate DevOps practitioner
 
-Seeking knowledge and striving to make things work.
+💻A Security Researcher and passionate DevOps practitioner
+
+😼Seeking knowledge and striving to make things work.
+# Gotta catch 'em all—bugs!
 
 ## Chilling 🌸
 
